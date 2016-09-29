@@ -5,7 +5,7 @@
     xsi:schemaLocation="http://symfony.com/schema/dic/services http://symfony.com/schema/dic/services/services-1.0.xsd">
 
     <parameters>
-        <parameter key="caponica_amazon_paa.client.class">CaponicaAmazonPAA\Client\ApaaClient</parameter>
+        <parameter key="caponica_amazon_paa.client.class">CaponicaAmazonPaa\Client\ApaaClient</parameter>
     </parameters>
 
 </container>

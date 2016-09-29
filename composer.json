@@ -21,8 +21,8 @@
   },
 
   "autoload": {
-    "psr-0": { "Caponica\\AmazonPAABundle": "" }
+    "psr-0": { "Caponica\\AmazonPaaBundle": "" }
   },
 
-  "target-dir": "Caponica/AmazonPAABundle"
+  "target-dir": "Caponica/AmazonPaaBundle"
 }

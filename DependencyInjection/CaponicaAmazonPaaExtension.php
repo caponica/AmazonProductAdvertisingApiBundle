@@ -1,13 +1,13 @@
 <?php
 
-namespace Caponica\AmazonPAABundle\DependencyInjection;
+namespace Caponica\AmazonPaaBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\Config\FileLocator;
 use Symfony\Component\HttpKernel\DependencyInjection\Extension;
 use Symfony\Component\DependencyInjection\Loader;
 
-class CaponicaAmazonPAAExtension extends Extension {
+class CaponicaAmazonPaaExtension extends Extension {
     /**
      * {@inheritDoc}
      */
