@@ -1,0 +1,28 @@
+{
+  "name": "caponica/amazon-paa-bundle",
+  "type": "symfony-bundle",
+  "license": "MIT",
+  "description": "Symfony2 service to access the Amazon Product Advertising API",
+  "keywords": ["amazon", "product advertising api", "product advertising", "amazon api", "ecs", "symfony"],
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Christian Morgan, Caponica",
+      "homepage": "http://www.github.com/Caponica"
+    }
+  ],
+
+  "require-dev": {
+    "caponica/amazon-paa": "dev-master"
+  },
+  "require": {
+    "php": ">=5.3.2",
+    "symfony/symfony": ">=2.1"
+  },
+
+  "autoload": {
+    "psr-0": { "Caponica\\AmazonPAABundle": "" }
+  },
+
+  "target-dir": "Caponica/AmazonPAABundle"
+}
