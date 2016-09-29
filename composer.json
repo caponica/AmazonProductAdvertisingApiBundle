@@ -12,10 +12,12 @@
     }
   ],
 
+  "require-dev": {
+    "caponica/amazon-paa": "dev-master"
+  },
   "require": {
     "php": ">=5.3.2",
-    "symfony/symfony": ">=2.1",
-    "caponica/amazon-paa": "@dev"
+    "symfony/symfony": ">=2.1"
   },
 
   "autoload": {
